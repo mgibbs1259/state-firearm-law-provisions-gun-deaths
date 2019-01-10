@@ -1,2 +1,4 @@
 # State Firearm Law Provisions and Gun Deaths
-Analysis of state firearm law provisions and gun deaths in the United States from 1999 to 2016
+Gun violence is a major public health issue in the U.S. The aim of this project is to analyze relationships among state firearm law provisions and gun deaths in the U.S. from 1999-2016. A combination of state firearm law provision data from Siegel at al. (2017a) and gun death data from the Centers for Disease Control and Prevention WONDER online databases were examined utilizing data mining techniques and Python. This project finds that there was a positive correlation between state firearm law provisions and gun deaths, suggesting that more state firearm law provisions do not necessarily equate to less gun deaths. Noticeably, there was regional heterogeneity among relationships between state firearm law provisions and gun deaths. Ultimately, this project highlights the need for more effective state gun laws, better enforcement of state gun laws, and an increase in mental health resources. 
+
+
